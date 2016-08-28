@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+                                                             Delivery Report
+
+
+                   Co.NO
+                              Lady's       Mobile Number      Delivery         Delivery    DeliveryTy      Kid        Delivery     Hospital
+                               Name                             Date             Place         pe        Gender        Result      Decharge
+                     1   Ashima Chaudhary   9876543210        1/12/4000          Place        Type        male         result      1/12/4000
+                     2         Arita           1234           1/12/4000          Place        Type        male         result      1/12/4000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
